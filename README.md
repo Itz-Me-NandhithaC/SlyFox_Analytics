@@ -2,6 +2,7 @@
 
 > Team Members: Nandhitha C, Roopasri S, Sandhiya N
 
+![SlyFox_logo](https://github.com/Itz-Me-NandhithaC/SlyFox_Analytics/blob/081f44146b7d439a4f1499bddb9e8ca601c319f8/SlyFox_Logo.jpg)
 # 🍴 Food Delivery Operations Analysis
 
 ## 📌 Project Overview
