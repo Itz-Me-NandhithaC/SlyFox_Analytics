@@ -7,7 +7,7 @@
 Check it out too:
 Nandhitha C https://github.com/Itz-Me-NandhithaC
 Roopasri S https://github.com/lachu35
-Sandhiya N 
+Sandhiya N https://github.com/sandhiyavanitha72
 # 🍴 Food Delivery Operations Analysis
 
 ## 📌 Project Overview
